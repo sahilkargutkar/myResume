@@ -14,7 +14,7 @@ const DownloadPage = () => {
                 <FormH1>Download My Resume </FormH1>
 
                 <DownloadIcon src={cv}></DownloadIcon>
-               <FormButton to="https://www.mediafire.com/file/dejmsonrpzxyazq/Resume%2528latest%2529.pdf/file"  style={{textDecoration:'none'}}>Download</FormButton>
+               <FormButton to="files/Resume(latest).pdf" target="_blank"style={{textDecoration:'none'}} download>Download</FormButton>
 
 
             </Form>

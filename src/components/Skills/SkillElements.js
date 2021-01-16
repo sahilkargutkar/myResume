@@ -60,7 +60,7 @@ padding: 80px;
 
 
 export const ProgressDone =styled.div`
- background: linear-gradient(to left, #86c232, #61892f);
+ background: linear-gradient(to left, #86c232, cyan);
 	box-shadow: 0 3px 3px -5px #b5f07a, 0 2px 5px #b5f07a;
 	border-radius: 20px;
 	color: #fff;

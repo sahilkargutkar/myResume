@@ -87,7 +87,7 @@ box-shadow:0 1px 3px rgba(0,0,0,0.9);
 
 export const FormH1 =styled.h1`
 margin-button:40px;
-color:#fff;
+color:#000;
 font-size:30px;
 font-weight:400;
 text-align:center;
@@ -123,6 +123,7 @@ border-radius:4px;
 color: #fff;
 font-size:20px;
 cursor:pointer;
+margin-bottom:10px;
 
 
 `;
