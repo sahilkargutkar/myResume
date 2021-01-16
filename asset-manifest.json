@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/myResume/static/css/main.817e0326.chunk.css",
-    "main.js": "/myResume/static/js/main.e86d5ee7.chunk.js",
-    "main.js.map": "/myResume/static/js/main.e86d5ee7.chunk.js.map",
+    "main.js": "/myResume/static/js/main.f2d6d3cd.chunk.js",
+    "main.js.map": "/myResume/static/js/main.f2d6d3cd.chunk.js.map",
     "runtime-main.js": "/myResume/static/js/runtime-main.541b3e48.js",
     "runtime-main.js.map": "/myResume/static/js/runtime-main.541b3e48.js.map",
     "static/js/2.3875f03f.chunk.js": "/myResume/static/js/2.3875f03f.chunk.js",
@@ -23,13 +23,13 @@
     "static/media/cv1.f2f143d1.png": "/myResume/static/media/cv1.f2f143d1.png",
     "static/media/download.7044990a.jpg": "/myResume/static/media/download.7044990a.jpg",
     "static/media/educhart1.b93303dd.jpg": "/myResume/static/media/educhart1.b93303dd.jpg",
+    "static/media/frontbg.9a76db9f.jpg": "/myResume/static/media/frontbg.9a76db9f.jpg",
     "static/media/graphicDesign.ce287563.svg": "/myResume/static/media/graphicDesign.ce287563.svg",
     "static/media/js.15da91e9.jpg": "/myResume/static/media/js.15da91e9.jpg",
     "static/media/lg.aa700c9a.png": "/myResume/static/media/lg.aa700c9a.png",
     "static/media/skillsbg.b1fdaaf2.jpeg": "/myResume/static/media/skillsbg.b1fdaaf2.jpeg",
     "static/media/stockmarket.84c1f167.jpg": "/myResume/static/media/stockmarket.84c1f167.jpg",
     "static/media/storiesapp.441cbe3b.png": "/myResume/static/media/storiesapp.441cbe3b.png",
-    "static/media/video1.cbc4864e.mp4": "/myResume/static/media/video1.cbc4864e.mp4",
     "static/media/webdesing.640582a8.svg": "/myResume/static/media/webdesing.640582a8.svg",
     "static/media/workbg.3c892435.jpg": "/myResume/static/media/workbg.3c892435.jpg"
   },
@@ -37,6 +37,6 @@
     "static/js/runtime-main.541b3e48.js",
     "static/js/2.3875f03f.chunk.js",
     "static/css/main.817e0326.chunk.css",
-    "static/js/main.e86d5ee7.chunk.js"
+    "static/js/main.f2d6d3cd.chunk.js"
   ]
 }
