@@ -1,5 +1,6 @@
 import React,{useState} from 'react'
 import Video from '../../videos/video1.mp4'
+import Frontbg from '../../Icons/frontbg.jpg'
 import {Button} from '../ButtonElements'
 import { FrontContainer,FrontBg,VideoBg ,
     FrontContent,Fronth1,FrontBanner,Frontp,FrontBtnWrapper,ArrowBottom,ArrowCircle} from "./FrontElements";
@@ -18,7 +19,7 @@ const FrontSection = () => {
     return (
         <FrontContainer id="home">
         <FrontBg>
-            <VideoBg autoPlay loop muted src={Video} type='video/mp4'/>
+            <VideoBg autoPlay loop muted src={Video}  type='video/mp4'/>
             </FrontBg>  
             <FrontContent>
                 <FrontBanner>
