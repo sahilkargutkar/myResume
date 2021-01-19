@@ -29,10 +29,10 @@ const Navbar = ({toggle}) => {
     }
 
     return (
-        <>
+        
           <Nav scrollNav={ scrollNav }>
               <NavbarContainer>
-                <NavLogo to='/' onClick={toggleHome}>
+                <NavLogo to='/myResume' onClick={toggleHome}>
                 𝓈𝒶𝒽𝒾𝓁 𝓀𝒶𝓇𝑔𝓊𝓉𝓀𝒶𝓇 
                 </NavLogo>
                 <MobileIcon onClick={toggle}>
@@ -68,7 +68,7 @@ const Navbar = ({toggle}) => {
 
               </NavbarContainer>
               </Nav>  
-        </>
+        
     )
 }
 

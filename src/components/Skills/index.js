@@ -3,7 +3,7 @@ import react from 'react-dom'
 import { ProgressClass,SkillsContainer,ProgressDone,Skillsh2,SkillsWrapper,SkillsCard,Skillsh1, } from '../Skills/SkillElements'
 import educhart1 from '../../Icons/educhart1.jpg'
 import bargraph from '../../Icons/bargraph.png'
-import Skillsbg from '../../Icons/skillsbg.jpeg'
+import Skillsbg from '../../Icons/skills.jpg'
 
 const Progress = ({done}) => {
 	const [style, setStyle] = React.useState({});

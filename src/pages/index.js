@@ -3,7 +3,7 @@ import  SideBar  from '../components/Sidebar'
 import NavBar from '../components/Navbar'
 import Footer from '../components/Footer'
 import FrontSection from '../components/FrontSection';
-import InfoSection from '../components/InfoSection';
+// import InfoSection from '../components/InfoSection';
 import {homeObjFour, homeObjOne} from '../components/InfoSection/Data';
 import Services from '../components/Services';
 import Works from '../components/Works';
@@ -21,19 +21,17 @@ const Home = () => {
     
     
     return (
-        <>
-            <SideBar isOpen={isOpen} toggle={toggle}/>
+        <div>
+        <SideBar isOpen={isOpen} toggle={toggle}/>
             <NavBar toggle={toggle}/>
             <FrontSection />
             <AboutPage /> 
             <Skills />
-            <Services/>
-                 
+            <Services/>   
             <Works/>
             <ContactForm/>
             <Footer/>
-
-        </>
+            </div>
     )
 }
 

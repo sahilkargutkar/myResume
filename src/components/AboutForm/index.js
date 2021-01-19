@@ -1,3 +1,4 @@
+import React from  'react'
 import background from '../../Icons/lg.png';
 import GlassCard from '../AboutForm/GlassCard';
 

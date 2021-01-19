@@ -5,7 +5,7 @@ import cv from '../../Icons/cv.svg'
 
 const DownloadPage = () => {
     return (
-        <>
+        
         <Container>
             <FormWrap>
                 <Icon to="/"></Icon>
@@ -22,8 +22,7 @@ const DownloadPage = () => {
             </FormContent>
             </FormWrap>
         </Container>
-            
-        </>
+
     )
 }
 
