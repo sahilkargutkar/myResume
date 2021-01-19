@@ -63,7 +63,7 @@ const Navbar = ({toggle}) => {
                     </NavItem>
                 </NavMenu>
                 <NavBtn>
-                    <NavBtnLink to='/download' onClick={Download}>Download CV</NavBtnLink>
+                    <NavBtnLink  download="/files/Resume(latest).pdf" to="/">Download CV</NavBtnLink>
                 </NavBtn>
 
               </NavbarContainer>
