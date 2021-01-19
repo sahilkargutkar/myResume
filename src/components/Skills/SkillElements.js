@@ -97,7 +97,7 @@ export const Skillsh1 =styled.h1`
 
 export const Skillsh2 =styled.h2`
 font-size: 1rem;
-color:#000;
+color:#fff;
 margin-bottom : 0px;
 
 

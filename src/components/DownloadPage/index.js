@@ -14,7 +14,7 @@ const DownloadPage = () => {
                 <FormH1>Download My Resume </FormH1>
 
                 <DownloadIcon src={cv}></DownloadIcon>
-               <FormButton to="files/Resume(latest).pdf" target="_blank"style={{textDecoration:'none'}} download>Download</FormButton>
+               <FormButton to="files/Resume(latest).pdf" style={{textDecoration:'none'}} download>Download</FormButton>
 
 
             </Form>
