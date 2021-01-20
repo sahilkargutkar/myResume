@@ -1,6 +1,6 @@
 {
   "name": "my-web-portfolio",
-  "homepage": "https://sahilkargutkar.codes",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
