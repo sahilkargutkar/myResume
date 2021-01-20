@@ -63,7 +63,7 @@ const Navbar = ({toggle}) => {
                     </NavItem>
                 </NavMenu>
                 <NavBtn>
-                    <NavBtnLink  download="/files/Resume(latest).pdf" >Download CV</NavBtnLink>
+                    <NavBtnLink to="https://www.mediafire.com/file/dejmsonrpzxyazq/Resume%2528latest%2529.pdf/file" download >Download CV</NavBtnLink>
                 </NavBtn>
 
               </NavbarContainer>
